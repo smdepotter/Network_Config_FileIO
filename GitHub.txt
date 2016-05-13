@@ -1,0 +1,15 @@
+en
+conf t
+router ospf 1
+network 1.9.2 1 area 0
+
+en
+conf t
+router ospf 1
+network 1.9.23 1 area 0
+
+en
+conf t
+router ospf 1
+network 1.9.23 1 area 0
+
